@@ -1,0 +1,7 @@
+input{
+    background-color: var(--c-background);
+    color: var(--c-foreground);
+    border: 0.1rem solid var(--c-foreground);
+    border-radius: var(--b-radius);
+    width: 100%;
+}

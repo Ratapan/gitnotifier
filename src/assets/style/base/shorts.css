@@ -1,0 +1,34 @@
+.fl {
+  display: flex;
+}
+
+.fl-col {
+  display: flex;
+  flex-direction: column;
+}
+.fl-center{
+  justify-content: center;
+}
+
+.fl-end {
+  justify-content: flex-end;
+}
+.fl-start {
+  justify-content: flex-start;
+}
+.fl-a-center {
+  align-items: center;
+}
+.fl-a-end {
+  align-items: flex-end;
+}
+.fl-a-start {
+  align-items: flex-start;
+}
+
+.gap-1 {
+  gap: var(--s-1);
+}
+.gap-2 {
+  gap: var(--s-2);
+}

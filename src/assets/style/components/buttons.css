@@ -1,0 +1,14 @@
+button {
+  background-color: var(--c-accent);
+  color: var(--c-accent-foreground);
+  border: 0;
+  border-radius: var(--b-radius);
+  padding: var(--s-1) var(--s-2);
+  cursor: pointer;
+  font-weight: bold;
+  transition: color var(--transition);
+}
+button:hover {
+  background-color: var(--c-accent-foreground);
+  color: var(--c-accent);
+}
