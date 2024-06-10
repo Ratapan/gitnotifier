@@ -20,7 +20,8 @@ El propósito de GitNotifier es asegurar que los desarrolladores no pierdan camb
 ## Capturas de Pantalla
 
 ![Pantalla Principal](./readme/Ui.png)
-*Descripción de la pantalla principal de GitNotifier*
+
+*Paths y alerta GitNotifier*
 
 ## Cómo Funciona
 
